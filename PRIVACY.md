@@ -1,10 +1,10 @@
-# Privacy Policy — Sellers Forge Studio
+# Privacy Policy — PureForge Studio
 
 **Effective Date:** November 19, 2026  
-**Vendor:** Sellers Forge Studio
+**Vendor:** PureForge Studio
 
 ## 1. Zero-Egress Architecture ("Runs on Atlassian")
-All Atlassian Cloud applications published by **Sellers Forge Studio**—including **Pure-Forge SVG Mermaid Studio**, **Pure-Forge Markdown Tree Studio**, and **Pure-Forge Bulk Label Governance**—are built exclusively on the native **Atlassian Forge** platform with **zero external network egress** (`permissions.external` is completely omitted).
+All Atlassian Cloud applications published by **PureForge Studio**—including **Pure-Forge SVG Mermaid Studio**, **Pure-Forge Markdown Tree Studio**, and **Pure-Forge Bulk Label Governance**—are built exclusively on the native **Atlassian Forge** platform with **zero external network egress** (`permissions.external` is completely omitted).
 
 ## 2. Personal Data & PII Declaration
 - **No Personal Data Collected or Stored:** Our applications **do not** collect, copy, cache, or store any Personal Data or Personally Identifiable Information (PII) such as user names, email addresses, IP addresses, or Atlassian `accountId` references.
@@ -13,7 +13,3 @@ All Atlassian Cloud applications published by **Sellers Forge Studio**—includi
 
 ## 3. Data Retention & Deletion
 Because all application state resides solely within your Atlassian Cloud instance's Forge storage partition, uninstalling the application or deleting content within your Jira/Confluence site immediately removes the associated data in accordance with Atlassian Cloud's platform lifecycle.
-
-## 4. Contact
-For privacy inquiries or support requests, please open an issue on our public support tracker:  
-https://github.com/jcsellers/sellers-forge-studio-docs/issues
